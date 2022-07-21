@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ProtFolio/static/css/main.e3b6726f.css",
+    "main.js": "/ProtFolio/static/js/main.8c665794.js",
+    "static/media/me-about.jpg": "/ProtFolio/static/media/me-about.433a3c138ca8377f58db.jpg",
+    "static/media/project4.png": "/ProtFolio/static/media/project4.5a6bba81c77f7f2ae79d.png",
+    "static/media/project6.png": "/ProtFolio/static/media/project6.142eaa175c5a01ff3107.png",
+    "static/media/project5.png": "/ProtFolio/static/media/project5.4a1a827e287b23a18e63.png",
+    "static/media/Nazmul_Haque_s_CV_.pdf": "/ProtFolio/static/media/Nazmul_Haque_s_CV_.31a6229456be5b6d043f.pdf",
+    "static/media/me.png": "/ProtFolio/static/media/me.203efdf56376764627cd.png",
+    "static/media/project1.png": "/ProtFolio/static/media/project1.b031e5c0225c3d34b39e.png",
+    "static/media/project3.png": "/ProtFolio/static/media/project3.bd0d22e4d236b7837dcd.png",
+    "static/media/project2.png": "/ProtFolio/static/media/project2.ab483269b414f56c1163.png",
+    "index.html": "/ProtFolio/index.html",
+    "main.e3b6726f.css.map": "/ProtFolio/static/css/main.e3b6726f.css.map",
+    "main.8c665794.js.map": "/ProtFolio/static/js/main.8c665794.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3b6726f.css",
+    "static/js/main.8c665794.js"
+  ]
+}
